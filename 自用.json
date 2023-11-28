@@ -294,38 +294,6 @@
             "name": "🔔切换线路后务必刷新接口"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Tongyong.json",
-            "name": "🍃青木🌷主线"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Yule.json",
-            "name": "🍃青木🌷娱乐"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Tiyu.json",
-            "name": "🍃青木🌷体育"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Shaoer.json",
-            "name": "🍃青木🌷少儿"
-        }, 
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Dongman.json",
-            "name": "🍃青木🌷动漫"
-        }, 	
-         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/4k.json",
-            "name": "🍃青木🌷4K"
-        },
-       {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/zhilian.json",
-            "name": "🍃青木🌷直连"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/free/main/swan/free/Caiji.json",
-            "name": "🍃青木🌷采集"
-        },
-        {
             "name": "❤️LZ～十月本地❤️",
             "url": "clan://localhost/box/aali.json"
         },
