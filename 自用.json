@@ -55,11 +55,13 @@
             "url": "http://饭太硬.top/tv"
         },
         {
-        "url":"http://fan.xxooo.cf/tv",
-        "name":"❤️LZ～饭太硬备用1❤️"
+            "name":"❤️LZ～饭太硬备用1❤️",
+            "url":"http://fan.xxooo.cf/tv"
         },
-        {"url":"http://fan.888484.xyz/tv",     
-        "name":"❤️LZ～饭太硬备用2❤️"
+        {
+            "name":"❤️LZ～饭太硬备用2❤️",
+            "url":"http://fan.888484.xyz/tv"     
+        
         },
         {
             "name": "❤️LZ～荷城茶秀❤️",
@@ -93,8 +95,14 @@
             "name": "❤️LZ～乐享汇蓝光1❤️",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt"
         },
-        {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json","name":"❤️LZ～乐享汇短剧❤️"},
-        {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"❤️LZ～乐享汇蓝光2❤️"},
+        {
+             "name":"❤️LZ～乐享汇短剧❤️",
+             "url": "https://gh-proxy.com/https://raw.githubu/sercontent.com/lxhfans/DEMO/master/duanju.json"
+        },
+        {
+             "name":"❤️LZ～乐享汇蓝光2❤️",
+             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt"
+        },
         {
             "name": "❤️LZ～4K视界❤️",
             "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json"
@@ -118,7 +126,7 @@
         {
       "name": "❤️LZ～影音天堂❤️",
       "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
-    },
+        },
         {
             "name": "❤️LZ～分享❤️",
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
@@ -130,7 +138,7 @@
         {
       "name": "❤️LZ～道长备用❤️",
       "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
-    },
+        },
         {
             "name": "❤️LZ～香佬❤️",
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
@@ -166,7 +174,8 @@
     {
       "name": "❤️LZ～阿里采集❤️",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"
-        {
+     },
+     {
             "name": "❤️LZ～潇洒❤️",
             "url": "https://la.kstore.space/download/2863/01.txt"
         },
