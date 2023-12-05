@@ -1,16 +1,26 @@
 {
     "urls": [
+
+       
         {
             "name": "❤️LZ～小米❤️",
             "url": "http://xhww.fun:63/小米/DEMO.json"
         },
         {
-            "name": "❤️LZ～应用多多❤️",
-            "url": "http://yydsys.top/duo"
+            "name": "❤️LZ～恒星❤️",
+            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/myw5.txt"
+        },
+        {
+            "name": "❤️LZ～恒星1❤️",
+            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/xmyw%E2%80%9C1%E2%80%9D.txt"
+        },
+        {
+            "name": "❤️LZ～恒星2❤️",
+            "url": "https://codeberg.org/xvnhs/xiamen/raw/branch/zcgdb/Xboxb.json"
         },
         {
             "name": "❤️LZ～运输车VIP❤️",
-            "url": "http://vip.weixine.link:88/yun"
+            "url": "http://vip.weixine.link:88/svip.json"
         },
         {
             "name": "❤️LZ～影视资源站❤️",
@@ -32,6 +42,10 @@
       "name": "❤️LZ～肥猫备用3❤️",
       "url": "http://肥猫.love"
     },
+    {
+            "name": "❤️LZ～香佬❤️",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        },
         {
             "name": "❤️LZ～巧技❤️",
             "url": "http://cdn.qiaoji8.com/tvbox.json"
@@ -43,14 +57,10 @@
         {
         "url":"http://fan.xxooo.cf/tv",
         "name":"❤️LZ～饭太硬备用1❤️"},
-{"url":"http://fan.888484.xyz/tv","name":"❤️LZ～饭太硬备用2❤️"},
+{"url":"http://fan.888484.xyz/tv","name":"❤️LZ～饭太硬备用2❤️"}，
         {
             "name": "❤️LZ～荷城茶秀❤️",
             "url": "http://rihou.vip:88/荷城茶秀"
-        },
-        {
-            "name": "❤️LZ～香佬❤️",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
         },
         {
             "name": "❤️LZ～荷城茶秀备用❤️",
@@ -120,7 +130,7 @@
     },
         {
             "name": "❤️LZ～香佬❤️",
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
         },
         {
             "name": "❤️LZ～蜂蜜❤️",
@@ -152,7 +162,7 @@
     },
     {
       "name": "❤️LZ～阿里采集❤️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json" },
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"
         {
             "name": "❤️LZ～潇洒❤️",
             "url": "https://la.kstore.space/download/2863/01.txt"
@@ -289,9 +299,96 @@
         {
             "name": "❤️LZ～码上放生❤️",
             "url": "https://la.kstore.space/download/3092/ff.txt"
-        },{
-            "url": "http://yydsys.top/duo/v.json",
-            "name": "🔔切换线路后务必刷新接口"
+        },
+            "name": "❤️LZ～云服务❤️",
+            "url": "http://111.67.195.139/yydf/yyffjk.json"
+        },
+        {
+            "name": "❤️LZ～极狐A❤️",
+            "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/yydfjk.json"
+        },
+        {
+            "name": "❤️LZ～极狐B❤️",
+            "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/yyffjk.json"
+        },
+        {
+            "name": "❤️LZ～跑路仓❤️",
+            "url": "https://pan.shangui.cc/f/v2Lsk/yyfxjk.json"
+        },
+        {
+            "name": "❤️LZ～虚拟仓❤️",
+            "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
+        },
+        {
+            "name": "❤️LZ～GIT仓❤️",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
+        },
+        {
+            "name": "❤️LZ～PG体验专仓❤️",
+            "url": "http://111.67.195.139/yydf/pg/jsm.json"
+        },
+        {
+            "name": "❤️LZ～OK源专线❤️",
+            "url": "https://already.free.hr/okcaptain/okjar/rm/ok.json"
+        },
+        {
+            "name": "❤️LZ～阿里魔镇❤️",
+            "url": "http://ftp6587948.host121.sanfengyun.cn/aliijk.json"
+        },
+        {
+            "name": "❤️LZ～高天影视❤️",
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
+        },
+        {
+            "name": "❤️LZ～天下第一❤️",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+        },
+        {
+            "name": "❤️LZ～猫爪专线❤️",
+            "url": "http://111.67.195.139/bd/JS/jsjk.json"
+        },
+        
+        {
+            "name": "❤️LZ～香雅情神❤️",
+            "url": "http://111.67.195.139/bd/xyq.json"
+        },
+       
+        },
+        {
+            "name": "❤️LZ～运输车姐❤️",
+            "url": "https://weixine.net/ysc.json"
+        },
+        {
+            "name": "❤️LZ～菜妮丝佬❤️",
+            "url": "https://tvbox.cainisi.cf"
+        },
+        {
+            "name": "❤️LZ～荷城茶秀❤️",
+            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/hccxjk.json"
+        },
+        {
+            "name": "❤️LZ～小胡❤️",
+            "url": "http://xiaohu.xzam.cn/xiaohu"
+        },
+        {
+            "name": "❤️LZ～巧技技巧❤️",
+            "url": "http://111.67.195.139/bd/qiaoji/qjtvbox.json"
+        },
+        {
+            "name": "❤️LZ～宝盒有宝❤️",
+            "url": "http://111.67.195.139/bd/ygbh.json"
+        },
+        {
+            "name": "❤️LZ～南风俊逸❤️",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+        },
+        {
+            "name": "❤️LZ～道长至尊❤️",
+            "url": "https://pastebin.com/raw/5NHaxyGR"
+        },
+        {
+            "name": "❤️LZ～少儿益智❤️",
+            "url": "http://ftp6587948.host121.sanfengyun.cn/srpd/srpdjk.json"
         },
         {
             "name": "❤️LZ～十月本地❤️",
@@ -300,5 +397,6 @@
         {
             "name": "❤️LZ～十一月本地❤️",
             "url": "clan://localhost/box/鸟叔.json"
-        }]
+        }
+    ]
 }
