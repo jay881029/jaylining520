@@ -56,8 +56,11 @@
         },
         {
         "url":"http://fan.xxooo.cf/tv",
-        "name":"❤️LZ～饭太硬备用1❤️"},
-{"url":"http://fan.888484.xyz/tv","name":"❤️LZ～饭太硬备用2❤️"}，
+        "name":"❤️LZ～饭太硬备用1❤️"
+        },
+        {"url":"http://fan.888484.xyz/tv",     
+        "name":"❤️LZ～饭太硬备用2❤️"
+        }，
         {
             "name": "❤️LZ～荷城茶秀❤️",
             "url": "http://rihou.vip:88/荷城茶秀"
@@ -179,10 +182,7 @@
             "name": "❤️LZ～吾爱❤️",
             "url": "http://52bsj.vip:98/wuai"
         },
-        {
-            "name": "❤️LZ～无名❤️",
-            "url": "http://itvba.xyz/tv/?need_out_animation=4&amp;finish_when_network_unavailable=false&amp;bdx_monitor_append_params=%7B%22enter_from%22%3A%22im_safe_jump_to_web%22%7D&amp;from_im=true&amp;disable_auto_expose=1&amp;font_sca"
-        },
+    
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "❤️LZ～菜妮丝❤️"
@@ -216,7 +216,7 @@
             "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json"
         },
         {
-            "name": "❤️LZ～小马❤️🔹",
+            "name": "❤️LZ～小马❤️",
             "url": "https://szyyds.cn/tv/x.json"
         },
         
