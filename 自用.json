@@ -1,23 +1,39 @@
 {
     "urls": [
-
-       
+    
         {
             "name": "❤️LZ～小米❤️",
             "url": "http://xhww.fun:63/小米/DEMO.json"
         },
         {
-            "name": "❤️LZ～短剧❤️",
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
+            "name": "❤️LZ～肥猫❤️",
+            "url": "http://肥猫.live"
         },
         {
-            "name": "❤️LZ～重楼❤️",
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+      "name": "❤️LZ～肥猫备用1❤️",
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
         },
         {
-            "name": "❤️LZ～业余❤️",
-            "url": "http://111.67.195.139/yydf/yyffjk.json"
+      "name": "❤️LZ～玩偶姐姐❤️",
+      "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
         },
+        {
+      "name": "❤️LZ～南瓜❤️",
+      "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+        {
+            "name": "❤️LZ～饭太硬❤️",
+            "url": "http://饭太硬.top/tv"
+        },
+        {
+            "name":"❤️LZ～稻花❤️",
+            "url":"https://xhdwc.tk/0"
+        },
+        {
+            "name":"❤️LZ～稻香❤️",
+            "url":"https://dxawi.github.io/0/0.json"     
+        
+        },    
         {
             "name": "❤️LZ～春盈天下❤️",
             "url": "https://wds.ecsxs.com/230989.json"
@@ -27,385 +43,28 @@
             "url": "https://api.zalman2022.repl.co/api.json"
         },
         {
-            "name": "❤️LZ～肥猫❤️",
-            "url": "http://肥猫.live"
-        },
-        {
-      "name": "❤️LZ～肥猫备用1❤️",
-      "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
-    },
-    {
-      "name": "❤️LZ～肥猫备用2❤️",
-      "url": "http://刚刚.live/猫"
-    },
-    {
-      "name": "❤️LZ～肥猫备用3❤️",
-      "url": "http://肥猫.love"
-    },
-    {
             "name": "❤️LZ～香佬❤️",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+            "url": "http://111.67.195.139/bd/xyq.json"
         },
         {
-            "name": "❤️LZ～巧技❤️",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
+            "name": "❤️LZ～香港❤️",
+            "url": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"
         },
         {
-            "name": "❤️LZ～饭太硬❤️",
-            "url": "http://饭太硬.top/tv"
+            "name": "❤️LZ～蜂蜜❤️",
+            "url": "https://tvbox.cainisi.cf/"
         },
         {
-            "name":"❤️LZ～饭太硬备用1❤️",
-            "url":"http://fan.xxooo.cf/tv"
+            "name": "❤️LZ～短剧❤️",
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json"
         },
         {
-            "name":"❤️LZ～饭太硬备用2❤️",
-            "url":"http://fan.888484.xyz/tv"     
+            "name": "❤️LZ～恒星❤️",
+            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"
         
-        },
-        {
-            "name": "❤️LZ～沃影主站❤️",
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"
-        },
-        {
-            "name": "❤️LZ～人人资源❤️",
-            "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json"
-        },
-        {
-            "name": "❤️LZ～福利❤️",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
-        },
-        {
-            "name": "❤️LZ～车嫂❤️",
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"
-        },
-        {
-            "name": "❤️LZ～CAT❤️",
-            "url": "http://122.51.37.23/man/cally4.xx.json"
-        },
-        {
-            "name": "❤️LZ～去看4K❤️",
-            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
-        },
-        {
-            "name": "❤️LZ～稳定版❤️",
-            "url": "https://la.kstore.space/download/3092/ff.txt"
-        },
-        {
-            "name": "❤️LZ～运输车❤️",
-            "url": "https://cf.weixine.net/ysc.json"
-        },
-        {
-             "name":"❤️LZ～月光宝盒❤️",
-             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json"
-        },
-        {
-             "name":"❤️LZ～缘聚缘散❤️",
-             "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"
-        },
-        {
-            "name": "❤️LZ～4K视界❤️",
-            "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json"
-        },
-        {
-            "name": "❤️LZ～精品商铺❤️",
-            "url": "http://xxxoo.shop"
-        },
-        {
-            "name": "❤️LZ～阿里专线❤️",
-            "url": "http://qrh.yimkj.cn/al/阿里.json"
-        },
-        {
-            "name": "❤️LZ～海风❤️",
-            "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/00.json"
-        },
-        {
-            "name": "❤️LZ～海风哎呦疼❤️",
-            "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/8.json"
-        },
-        {
-      "name": "❤️LZ～非凡❤️",
-      "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master825.json"
-        },
-        {
-            "name": "❤️LZ～爱妃❤️",
-            "url": "https://jihulab.com/moyuer/jk/-/raw/main/moyu.json"
-        },
-        {
-            "name": "❤️LZ～速度❤️",
-            "url": "https://9xi4o.tk/tvbox.json"
-        },
-        {
-      "name": "❤️LZ～壹梦❤️",
-      "url": "http://qrh.yimkj.cn/ym/壹梦.json"
-        },
-        {
-            "name": "❤️LZ～缘来家❤️",
-            "url": "https://box.000913.xyz/230924"
-        },
-        {
-            "name": "❤️LZ～爱爱❤️",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
-        },
-        {
-            "name": "❤️LZ～俊佬❤️",
-            "url": "http://home.jundie.top:81/top98.json"
-        },
-        {
-            "name": "❤️LZ～菜妮丝姐❤️",
-            "url": "https://tvbox.cainisi.cf"
-        },
-        {
-      "name": "❤️LZ～神器❤️",
-      "url": "https://神器每日推送.tk/pz.json"
-    },
-    {
-      "name": "❤️LZ～心魔❤️",
-      "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
-    },
-    {
-      "name": "❤️LZ～水蜜桃❤️",
-      "url": "http://shixiong.alwaysdata.net/m.json"
-    },
-    {
-      "name": "❤️LZ～云星❤️",
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
-    },
-    {
-      "name": "❤️LZ～圆周率❤️",
-      "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt?ref_type=heads"
-     },
-     {
-            "name": "❤️LZ～潇洒❤️",
-            "url": "https://la.kstore.space/download/2863/01.txt"
-        },
-        {
-            "name": "❤️LZ～精选❤️",
-            "url": "https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"
-        },
-        {
-            "name": "❤️LZ～太阳视界❤️",
-            "url": "https://tvbox.meitufu.com/TVBox/tv.json"
-        },
-        {
-            "name": "❤️LZ～分享者❤️",
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
-        },
-    
-        {
-            "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json",
-            "name": "❤️LZ～二哈❤️"
-        },
-        {
-             "name": "❤️LZ～香雅情❤️",
-             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"            
-        },
-        {
-            "url": "http://ftp6587948.host121.sanfengyun.cn/aliijk.json",
-            "name": "❤️LZ～阿里巴巴❤️"
-        },
-        {
-            "url": "https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json",
-            "name": "❤️LZ～TTF❤️"
-        },
-        {
-            "url": "https://xhdwc.tk/0",
-            "name": "❤️LZ～好人线路❤️"
-        },
-        {
-            "url": "https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json",
-            "name": "❤️LZ～精修❤️"
-        },
-        {
-            "name": "❤️LZ～余氏❤️",
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/yu"
-        },
-        {
-            "name": "❤️LZ～熊猫❤️",
-            "url": "https://s2.pub/xmbjmxdc"
-        },
-        {
-            "name": "❤️LZ～小马❤️",
-            "url": "https://szyyds.cn/tv/x.json"
-        },
         
-        {
-            "name": "❤️LZ～影影❤️",
-            "url": "http://www.lyyytv.cn/yt/yt.json"
-        },
-        {
-            "name": "❤️LZ～好人❤️",
-            "url": "https://xhdwc.tk/0"
-        },
-        {
-            "name": "❤️LZ～乐享❤️",
-            "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"
-        },
-        {
-            "name": "❤️LZ～不良帅❤️",
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"
-        },
-        {
-            "name": "❤️LZ～猫技❤️",
-            "url": "https://agit.ai/ddx/nmys/raw/branch/master/feimao.json"
-        },
-        {
-            "name": "❤️LZ～星辰❤️",
-            "url": "http://8.210.232.168/xc.json"
-        },
-        {
-            "name": "❤️LZ～量帅❤️",
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"
-        },
-        {
-            "name": "❤️LZ～蚂蚁论坛❤️",
-            "url": "https://la.kstore.space/download/2883/0110.txt"
-        },
-        {
-            "name": "❤️LZ～美食❤️",
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt"
-        },
-        {
-            "name": "❤️LZ～教育❤️",
-            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt"
-        },
-        {
-            "name": "❤️LZ～刘备❤️",
-            "url": "https://raw.liucn.cc/box/m.json"
-        },
-        {
-            "name": "❤️LZ～源享家❤️",
-            "url": "https://源享家.ml/23424"
-        },
-        {
-            "name": "❤️LZ～熊猫不叫猫❤️",
-            "url": "https://download.kstore.space/download/5027/TV/smile.json"
-        },
-        {
-            "name": "❤️LZ～4K视界❤️",
-            "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json"
-        },
-        {
-            "name": "❤️LZ～摸鱼❤️",
-            "url": "https://jihulab.com/moyuer/jk/-/raw/main/moyu.json"
-        },
-        {
-            "name": "❤️LZ～乐享汇❤️",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt"
-        },
-        {
-            "name": "❤️LZ～99影视❤️",
-            "url": "http://jiami.guimei.work/a/1698852939.txt"
-        },
-        {
-            "name": "❤️LZ～天天开心❤️",
-            "url": "http://rihou.vip/天天开心"
-        },
-        {
-            "name": "❤️LZ～新4k❤️",
-            "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
-        },
-        {
-            "name": "❤️LZ～码上放生❤️",
-            "url": "https://la.kstore.space/download/3092/ff.txt"
-        },
-        {    
-            "name": "❤️LZ～云服务❤️",
-            "url": "http://111.67.195.139/yydf/yyffjk.json"
-        },
-        {
-            "name": "❤️LZ～极狐A❤️",
-            "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/yydfjk.json"
-        },
-        {
-            "name": "❤️LZ～极狐B❤️",
-            "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/yyffjk.json"
-        },
-        {
-            "name": "❤️LZ～跑路仓❤️",
-            "url": "https://pan.shangui.cc/f/v2Lsk/yyfxjk.json"
-        },
-        {
-            "name": "❤️LZ～虚拟仓❤️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
-        },
-        {
-            "name": "❤️LZ～GIT仓❤️",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
-        },
-        {
-            "name": "❤️LZ～PG体验专仓❤️",
-            "url": "http://111.67.195.139/yydf/pg/jsm.json"
-        },
-        {
-            "name": "❤️LZ～OK源专线❤️",
-            "url": "https://already.free.hr/okcaptain/okjar/rm/ok.json"
-        },
-        {
-            "name": "❤️LZ～阿里魔镇❤️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/aliijk.json"
-        },
-        {
-            "name": "❤️LZ～高天影视❤️",
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
-        },
-        {
-            "name": "❤️LZ～天下第一❤️",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
-        },
-        {
-            "name": "❤️LZ～猫爪专线❤️",
-            "url": "http://111.67.195.139/bd/JS/jsjk.json"
-        },
         
-        {
-            "name": "❤️LZ～香雅情神❤️",
-            "url": "http://111.67.195.139/bd/xyq.json"},
-       
-       
-        {
-            "name": "❤️LZ～运输车姐❤️",
-            "url": "https://weixine.net/ysc.json"
-        },
-        {
-            "name": "❤️LZ～菜妮丝佬❤️",
-            "url": "https://tvbox.cainisi.cf"
-        },
-        {
-            "name": "❤️LZ～荷城茶秀❤️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/hccxjk.json"
-        },
-        {
-            "name": "❤️LZ～小胡❤️",
-            "url": "http://xiaohu.xzam.cn/xiaohu"
-        },
-        {
-            "name": "❤️LZ～巧技技巧❤️",
-            "url": "http://111.67.195.139/bd/qiaoji/qjtvbox.json"
-        },
-        {
-            "name": "❤️LZ～宝盒有宝❤️",
-            "url": "http://111.67.195.139/bd/ygbh.json"
-        },
-        {
-            "name": "❤️LZ～南风俊逸❤️",
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-        },
-        {
-            "name": "❤️LZ～道长至尊❤️",
-            "url": "https://pastebin.com/raw/5NHaxyGR"
-        },
-        {
-            "name": "❤️LZ～少儿益智❤️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/srpd/srpdjk.json"
-        },
-        {
-            "name": "❤️LZ～十月本地❤️",
-            "url": "clan://localhost/box/aali.json"
-        },
-        {
-            "name": "❤️LZ～十一月本地❤️",
-            "url": "clan://localhost/box/鸟叔.json"
+        
         }
     ]
 }
