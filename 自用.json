@@ -3,7 +3,11 @@
     
         {
             "name": "❤️LZ～小米❤️",
-            "url": "http://xhww.fun:63/小米/DEMO.json"
+            "url": "http://xhww.fun/小米/DEMO.json"
+        },
+        {
+            "name": "❤️LZ～摸鱼❤️",
+            "url": "https://gitee.com/shangyunvip/yingshicang/raw/master/moyu/moyu.json"
         },
         {
             "name": "❤️LZ～饭太硬❤️",
@@ -26,8 +30,8 @@
       "url": "http://xb.tvbox.cam"
         },
         {
-      "name": "❤️LZ～运输车❤️",
-      "url": "http://vip.weixine.link:88/svip.json"
+      "name": "❤️LZ～多多影音❤️",
+      "url": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/duoduo/dduo.json"
         },
         {
             "name": "❤️LZ～香佬❤️",
@@ -124,8 +128,8 @@
             "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
         },
         {
-            "name": "❤️LZ～影音天堂❤️",
-            "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
+            "name": "❤️LZ～乐享fans❤️",
+            "url": "https://gitee.com/shangyunvip/yingshicang/raw/master/lexiang/tv.json"
         }
     ]
 }
